@@ -1,0 +1,14 @@
+#Node Commands#
+>node
+
+>node -v
+
+>global
+
+>process
+
+>process.exit()
+
+>node blocking.js
+
+>node non-blocking.js
